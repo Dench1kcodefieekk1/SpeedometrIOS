@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# The Xcode project is generated from project.yml by XcodeGen
+SpeedoTrack.xcodeproj/
+
+# Swift Package Manager
+.build/
+.swiftpm/
